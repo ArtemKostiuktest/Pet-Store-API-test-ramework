@@ -23,13 +23,17 @@ to the server, random user data is generated, and the results are verified.
 * **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Pet_Store.git
+    git clone https://github.com/ArtemKostiuktest/Pet-Store-API-test-ramework.git
     cd Pet_Store
     ```
 
 ## Run tests
 
-### Launch through Suite
+### Launch via graphical IDE interface
+
+If you need to run tests via a graphical interface (IntelliJ IDEA), it is important to select the appropriate **Maven profile to set the base URL**.
+
+### Launch via Suite
 
 To run tests through XML Suite, use the command:
 
